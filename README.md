@@ -22,6 +22,7 @@
 - 🧱 **42,000+ lines of production code** in one system: a 26k-line SPA and a 16k-line backend with 200+ API actions.
 - 🚀 **3.3 s → 41 ms** response time after moving read traffic to the edge (Cloudflare Workers + D1) without rewriting the backend.
 - 🧪 **1,500+ automated checks** gate every deploy, including security analyzers I wrote myself.
+- 🏋️ **3 years of academic and athletic coaching** with 30+ client feedback.
 - 🎯 **SAT 1580/1600** first attempt (from 1150 in 4 months) · 🥇 **Gold, Squat 190 kg**, VPF National Championship 2025.
 
 ---
@@ -61,7 +62,7 @@ Control code for a 2-DOF VEX V5 robot arm (VEX Robotics Competition, Oct 2026) a
 | Apr 2026 → | **Founder & Lead Software Engineer**, Greysteel Education |
 | Apr 2026 → | **Control Systems Developer**, VEX V5 robotics team |
 | Nov 2025 → | **National Sub-Junior Athlete (U74)**, Vietnam Powerlifting Federation |
-| 2024 → | **Head Coach**, Greysteel Performance & Coaching: data-driven training system in Google Sheets; coached an athlete to 1 Gold + 3 Silver (93 → 82 kg bodyweight, Squat 180 → 210 kg) |
+| 2024 → | **Head Coach**, Greysteel Performance & Coaching: 3 years of coaching, **30+ client feedback** on documented results; data-driven training system in Google Sheets; coached an athlete to 1 Gold + 3 Silver (93 → 82 kg bodyweight, Squat 180 → 210 kg) |
 | Jun 2026 | Graduated **Tran Phu High School for the Gifted**, Bilingual French-Vietnamese track |
 
 ### 🧰 Skills
@@ -94,6 +95,7 @@ Mình là **Phạm Nguyễn Minh Trí**, sinh viên Công nghệ thông tin chư
 - Chuyển phần đọc dữ liệu lên Cloudflare Workers + D1, giảm thời gian phản hồi từ 3,3 giây xuống 41 ms mà không phải viết lại máy chủ.
 - Đưa AI vào quy trình dạy học: chấm thử bài viết theo khung IELTS, DELF; tách đề từ tệp; chatbot tư vấn.
 - **Greysteel Tasks**: app lập kế hoạch kết hợp ma trận Eisenhower với chu kỳ tập luyện thể thao, tự xếp bù lịch và đồng bộ Google Calendar.
+- **Coaching**: 3 năm huấn luyện học tập và thể hình, hơn 30 feedback kết quả từ học viên.
 - **Robotics**: lập trình cánh tay robot VEX V5 và xe Arduino.
 - SAT 1580, HCV Squat và HCB Tổng cử giải Powerlifting toàn quốc 2025, giải Nhất kỳ tuyển chọn đội tuyển HSG Địa lí của trường dự thi HSG cấp thành phố.
 
