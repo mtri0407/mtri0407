@@ -75,11 +75,11 @@ Control code for a 2-DOF VEX V5 robot arm (VEX Robotics Competition, Oct 2026) a
 
 - SAT 1580/1600 (790 Math, 790 Reading & Writing), first attempt
 - Gold Medal Squat (190 kg) and Silver Medal Total, U74 Sub-Junior, VPF National Championship 2025
-- 1st Prize, School Geography Competition (9.63/10 after 14 days of preparation)
+- 1st Prize, school selection round for the Geography team competing in the City Gifted Student Competition (9.63/10 after 14 days of preparation)
 
 ### 📫 Reach me
 
-🌐 [thegreysteel.com](https://thegreysteel.com)
+📧 [minhtriphamnguyen69@gmail.com](mailto:minhtriphamnguyen69@gmail.com) · 🌐 [thegreysteel.com](https://thegreysteel.com)
 
 ---
 
@@ -95,6 +95,6 @@ Mình là **Phạm Nguyễn Minh Trí**, sinh viên Công nghệ thông tin chư
 - Đưa AI vào quy trình dạy học: chấm thử bài viết theo khung IELTS, DELF; tách đề từ tệp; chatbot tư vấn.
 - **Greysteel Tasks**: app lập kế hoạch kết hợp ma trận Eisenhower với chu kỳ tập luyện thể thao, tự xếp bù lịch và đồng bộ Google Calendar.
 - **Robotics**: lập trình cánh tay robot VEX V5 và xe Arduino.
-- SAT 1580, HCV Squat và HCB Tổng cử giải Powerlifting toàn quốc 2025, giải Nhất kỳ thi Địa lí cấp trường.
+- SAT 1580, HCV Squat và HCB Tổng cử giải Powerlifting toàn quốc 2025, giải Nhất kỳ tuyển chọn đội tuyển HSG Địa lí của trường dự thi HSG cấp thành phố.
 
 </details>
