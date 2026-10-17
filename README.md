@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Trí 👋</h2>
 <p align="center">
-  <b>Phạm Nguyễn Minh Trí</b> · IT student at HUST (PFIEV, IT-EP) · Founder of <a href="https://thegreysteel.com">Greysteel Education</a> · National powerlifting medalist
+  <b>Phạm Nguyễn Minh Trí</b> · IT student at HUST (IT-EP) · Founder of <a href="https://thegreysteel.com">Greysteel Education</a> · National powerlifting medalist
 </p>
 <p align="center"><i>I build production systems that real customers use every day, and I treat learning like training: measured, periodized, progressive.</i></p>
 
@@ -23,7 +23,7 @@
 - 🚀 **3.3 s → 41 ms** response time after moving read traffic to the edge (Cloudflare Workers + D1) without rewriting the backend.
 - 🧪 **1,500+ automated checks** gate every deploy, including security analyzers I wrote myself.
 - 🏋️ **3 years of academic and athletic coaching** with 30+ client feedback.
-- 🎯 **SAT 1580/1600** first attempt (from 1150 in 4 months) · 🥇 **Gold, Squat 190 kg**, VPF National Championship 2025.
+- 🎯 **SAT 1580/1600** first attempt  · 🥇 **Gold, Squat 190 kg**, VPF National Championship 2025.
 
 ---
 
@@ -58,7 +58,7 @@ Control code for a 2-DOF VEX V5 robot arm (VEX Robotics Competition, Oct 2026) a
 
 | When | What |
 |---|---|
-| Sep 2026 → | **HUST**, Bachelor in Information Technology, French-Vietnamese Excellent Engineer Program (PFIEV, IT-EP) |
+| Sep 2026 → | **HUST**, Bachelor in Information Technology French-Vietnamese Excellent Engineer Program (IT-EP) |
 | Apr 2026 → | **Founder & Lead Software Engineer**, Greysteel Education |
 | Apr 2026 → | **Control Systems Developer**, VEX V5 robotics team |
 | Nov 2025 → | **National Sub-Junior Athlete (U74)**, Vietnam Powerlifting Federation |
@@ -89,14 +89,12 @@ Control code for a 2-DOF VEX V5 robot arm (VEX Robotics Competition, Oct 2026) a
 
 <br>
 
-Mình là **Phạm Nguyễn Minh Trí**, sinh viên Công nghệ thông tin chương trình Kỹ sư chất lượng cao Việt Pháp (PFIEV) tại Đại học Bách khoa Hà Nội, cựu học sinh hệ Song ngữ Pháp THPT Chuyên Trần Phú, Hải Phòng.
-
-- **Founder Greysteel Education**: tự xây toàn bộ nền tảng vận hành trung tâm (hơn 42.000 dòng code, hơn 200 hành động API, 54 phiên bản trong 6 tháng), doanh thu 20 triệu đồng tháng đầu.
-- Chuyển phần đọc dữ liệu lên Cloudflare Workers + D1, giảm thời gian phản hồi từ 3,3 giây xuống 41 ms mà không phải viết lại máy chủ.
+Mình là **Phạm Nguyễn Minh Trí**, sinh viên Công nghệ thông tin tại Đại học Bách khoa Hà Nội, cựu học sinh hệ Song ngữ Pháp THPT Chuyên Trần Phú, Hải Phòng.
+- **Founder Greysteel Education**: tự xây toàn bộ nền tảng vận hành trung tâm (hơn 42.000 dòng code, hơn 200 hành động API, 54 phiên bản trong 6 tháng).
 - Đưa AI vào quy trình dạy học: chấm thử bài viết theo khung IELTS, DELF; tách đề từ tệp; chatbot tư vấn.
 - **Greysteel Tasks**: app lập kế hoạch kết hợp ma trận Eisenhower với chu kỳ tập luyện thể thao, tự xếp bù lịch và đồng bộ Google Calendar.
 - **Coaching**: 3 năm huấn luyện học tập và thể hình, hơn 30 feedback kết quả từ học viên.
 - **Robotics**: lập trình cánh tay robot VEX V5 và xe Arduino.
-- SAT 1580, HCV Squat và HCB Tổng cử giải Powerlifting toàn quốc 2025, giải Nhất kỳ tuyển chọn đội tuyển HSG Địa lí của trường dự thi HSG cấp thành phố.
+- SAT 1580, HCV Squat và HCB Tổng cử giải Powerlifting toàn quốc 2025, giải Nhất kỳ tuyển chọn đội tuyển HSG Địa lí của trường dự thi HSG cấp thành phố, GPA 9.9, 10.0 Tiếng Anh và Địa Lí.
 
 </details>
