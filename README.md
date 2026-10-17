@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Trí 👋</h2>
 <p align="center">
-  <b>Phạm Nguyễn Minh Trí</b> · IT student at HUST (IT-EP) · Founder of <a href="https://thegreysteel.com">Greysteel Education</a> · National powerlifting medalist
+  <b>Phạm Nguyễn Minh Trí</b> · IT student at HUST (IT-EP) · Founder/CEO of <a href="https://thegreysteel.com">Greysteel Education</a> · National powerlifting medalist
 </p>
 <p align="center"><i>I build production systems that real customers use every day, and I treat learning like training: measured, periodized, progressive.</i></p>
 
