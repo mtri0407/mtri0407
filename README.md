@@ -18,7 +18,7 @@
 
 ### ⚡ At a glance
 
-- 🏫 **Founded a tutoring company** and built its entire software platform myself: 20,000,000 VND revenue in month one, 54 releases in 6 months.
+- 🏫 **Founder & CEO of a tutoring company**: I lead a ~10-person team of elite tutors (National Gifted Student prize winners, SAT 1590, IELTS 8.0) and built its entire software platform myself. 20,000,000 VND revenue in month one, 54 releases in 6 months.
 - 🧱 **42,000+ lines of production code** in one system: a 26k-line SPA and a 16k-line backend with 200+ API actions.
 - 🚀 **3.3 s → 41 ms** response time after moving read traffic to the edge (Cloudflare Workers + D1) without rewriting the backend.
 - 🧪 **1,500+ automated checks** gate every deploy, including security analyzers I wrote myself.
@@ -47,10 +47,10 @@ A planner that merges the Eisenhower Matrix with athletic periodization. Goals b
 
 `JavaScript PWA` `Netlify Functions` `Google Calendar & Drive APIs` `Claude API`
 
-#### [Robotics](https://github.com/mtri0407/robotics)
-Control code for a 2-DOF VEX V5 robot arm (VEX Robotics Competition, Oct 2026) and Arduino AlphaBot path-following with a separate calibration routine.
+#### [VEX V5 Robot Arm](https://github.com/mtri0407/robotics)
+Control code for the 2-DOF robot arm of my VEX Robotics Competition team (Apr to Aug 2026).
 
-`C++` `VEXcode V5` `Arduino`
+`C++` `VEXcode V5`
 
 ---
 
@@ -59,8 +59,8 @@ Control code for a 2-DOF VEX V5 robot arm (VEX Robotics Competition, Oct 2026) a
 | When | What |
 |---|---|
 | Sep 2026 → | **HUST**, Bachelor in Information Technology French-Vietnamese Excellent Engineer Program (IT-EP) |
-| Apr 2026 → | **Founder & Lead Software Engineer**, Greysteel Education |
-| Apr 2026 → | **Control Systems Developer**, VEX V5 robotics team |
+| Apr 2026 → | **Founder & CEO, Lead Developer**, Greysteel Education: lead a ~10-person team (tutors and HR), hiring, processes and payroll, while building the whole platform |
+| Apr 2026 → Aug 2026 | **Control Systems Developer**, VEX V5 robotics team |
 | Nov 2025 → | **National Sub-Junior Athlete (U74)**, Vietnam Powerlifting Federation |
 | 2024 → | **Head Coach**, Greysteel Performance & Coaching: 3 years of coaching, **30+ client feedback** on documented results; data-driven training system in Google Sheets; coached an athlete to 1 Gold + 3 Silver (93 → 82 kg bodyweight, Squat 180 → 210 kg) |
 | Jun 2026 | Graduated **Tran Phu High School for the Gifted**, Bilingual French-Vietnamese track |
@@ -82,6 +82,8 @@ Control code for a 2-DOF VEX V5 robot arm (VEX Robotics Competition, Oct 2026) a
 
 📧 [minhtriphamnguyen69@gmail.com](mailto:minhtriphamnguyen69@gmail.com) · 🌐 [thegreysteel.com](https://thegreysteel.com)
 
+🎬 [TikTok @mtri.pham](https://www.tiktok.com/@mtri.pham) (1.8K followers, 125K likes) · 📸 [Instagram @triward](https://www.instagram.com/triward/) (950 followers) · 🧵 [Threads @mtri.prv](https://www.threads.com/@mtri.prv)
+
 ---
 
 <details>
@@ -90,11 +92,11 @@ Control code for a 2-DOF VEX V5 robot arm (VEX Robotics Competition, Oct 2026) a
 <br>
 
 Mình là **Phạm Nguyễn Minh Trí**, sinh viên Công nghệ thông tin tại Đại học Bách khoa Hà Nội, cựu học sinh hệ Song ngữ Pháp THPT Chuyên Trần Phú, Hải Phòng.
-- **Founder Greysteel Education**: tự xây toàn bộ nền tảng vận hành trung tâm (hơn 42.000 dòng code, hơn 200 hành động API, 54 phiên bản trong 6 tháng).
+- **Founder & CEO Greysteel Education**: lãnh đạo đội ngũ khoảng 10 người (tutor đạt giải HSG Quốc gia, SAT 1590, IELTS 8.0), đồng thời tự xây toàn bộ nền tảng vận hành trung tâm (hơn 42.000 dòng code, hơn 200 hành động API, 54 phiên bản trong 6 tháng).
 - Đưa AI vào quy trình dạy học: chấm thử bài viết theo khung IELTS, DELF; tách đề từ tệp; chatbot tư vấn.
 - **Greysteel Tasks**: app lập kế hoạch kết hợp ma trận Eisenhower với chu kỳ tập luyện thể thao, tự xếp bù lịch và đồng bộ Google Calendar.
 - **Coaching**: 3 năm huấn luyện học tập và thể hình, hơn 30 feedback kết quả từ học viên.
-- **Robotics**: lập trình cánh tay robot VEX V5 và xe Arduino.
+- **Robotics**: lập trình cánh tay robot VEX V5 (04 đến 08/2026).
 - SAT 1580, HCV Squat và HCB Tổng cử giải Powerlifting toàn quốc 2025, giải Nhất kỳ tuyển chọn đội tuyển HSG Địa lí của trường dự thi HSG cấp thành phố, GPA 9.9, 10.0 Tiếng Anh và Địa Lí.
 
 </details>
